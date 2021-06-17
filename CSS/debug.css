@@ -1,0 +1,14 @@
+body {
+    background-color: lightblue;
+}
+.bold {
+    font-weight: bold;
+}
+img{
+    height: 300px;
+    width: 600px;
+    border: 2px red dashed;
+}
+h3 {
+    text-align: center;
+}
